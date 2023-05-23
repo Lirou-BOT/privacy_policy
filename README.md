@@ -21,8 +21,10 @@
 ・ We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised Privacy Policy on our website or notifying you through [Ventrix Support Server](https://discord.gg/FB3PZJUbS5). It is your responsibility to review this Privacy Policy periodically for any updates or changes.
 
 # Contact Us:
-・ If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact me on Discord!\n
-・ **Discord ID**: `RITIK#9180`\n
-・ **Support Server**: [Click To Join](https://discord.gg/FB3PZJUbS5)\n
+・ If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact me on Discord!
+
+・ **Discord ID**: `RITIK#9180`
+
+・ **Support Server**: [Click To Join](https://discord.gg/FB3PZJUbS5)
 
 By using the Ventrix Discord Bot, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your personal information as described herein.
