@@ -13,8 +13,8 @@
 # Disclosure of Information:
 ・ We may share your personal information with trusted third-party service providers who assist us in operating, maintaining, and improving the Ventrix. 
 
-     For example: *MongoDB*
- 
+*For example: MongoDB*
+     
 # Data Security:
 ・ We implement reasonable technical and organizational measures to protect the security and confidentiality of your personal information. However, please note that no method of transmission or storage over the Internet is entirely secure, and we cannot guarantee absolute security.
 **But The Database Access Is Only To The Owner i.e RITIK**
