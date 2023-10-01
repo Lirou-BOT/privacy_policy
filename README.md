@@ -27,7 +27,7 @@
 ## Contact Us:
 * If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact me on Discord!
 
-* **Discord ID**: `RITIK#9180` 
+* **Discord ID**: `RITIK69` 
 * **Support Server**: [Click To Join](https://discord.gg/FB3PZJUbS5)
 
 By using the Ventrix Discord Bot, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your personal information as described herein.
