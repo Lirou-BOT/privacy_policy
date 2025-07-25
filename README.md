@@ -1,33 +1,42 @@
-## Ventrix Privacy Policy
+## Lirou Privacy Policy
 
-#### Information We Collect:
-* **User-provided Information**: When you use Ventrix Discord Bot, we may collect and store personal information that you voluntarily provide, such as your Discord username, user ID, and any other information you choose to share with the Bot. 
+### Information We Collect
+- **Basic Discord Info**  
+  We may collect your **Discord username, user ID, and server/guild IDs** to provide essential bot features.
 
-* **Usage Information**: We may collect certain information about your use of the Ventrix Discord Bot, including commands used, messages sent, and interactions with the Bot's features.
+- **Usage Data**  
+  When you use Lirou, we may store **command usage**, moderation actions, and related configuration data needed to make the bot work properly for your server.
 
-#### Use of Collected Information:
-* We use the collected information to provide and improve the Ventrix Discord Bot, including personalized features, functionalities, and support.
+- **Optional Data**  
+  If you configure extra features (like autoroles, sticky messages, moderation cases), we’ll save only the data needed to make those features work.
 
-* We will not sell, rent, or lease your personal information to any third parties unless we have obtained your explicit consent or are required by law to do so.
+---
 
-#### Disclosure of Information:
-* We may share your personal information with trusted third-party service providers who assist us in operating, maintaining, and improving the Ventrix. 
+### Use of Collected Information
+- To **run and improve** Lirou’s features (like moderation, autopublishing, etc.).
+- To **store server settings** (like prefix, autoroles, disabled commands).
+- We **will NEVER sell or share** your data to anyone.
+- We use **MongoDB** platform for secure data storage.
 
-*For example: MongoDB*
-     
-#### Data Security:
-* We implement reasonable technical and organizational measures to protect the security and confidentiality of your personal information. However, please note that no method of transmission or storage over the Internet is entirely secure, and we cannot guarantee absolute security.
-* **But The Database Access Is Only To The Owner i.e RITIK**
+---
 
+### Data Security
+- All stored data is **protected and can only accessible by the bot developers and the bot**.
 
-#### Changes to this Privacy Policy:
-* We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised Privacy Policy on our website or notifying you through [Ventrix Support Server](https://discord.gg/FB3PZJUbS5). 
-**It is your responsibility to review this Privacy Policy periodically for any updates or changes.**
+---
 
-## Contact Us:
-* If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact me on Discord!
+### Changes to This Policy
+- We may update this policy from time to time.
+- Any changes will be announced in the **[Lirou Support Server](https://discord.gg/FB3PZJUbS5)** on Discord.
+- You’re advised to check back occasionally for updates.
 
-* **Discord ID**: `RITIK69` 
-* **Support Server**: [Click To Join](https://discord.gg/FB3PZJUbS5)
+---
 
-By using the Ventrix Discord Bot, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your personal information as described herein.
+### Contact Us:
+Have questions or want your data removed? Reach out anytime!
+- **Developers:** RITIK & WEBSTER (Discord: @1roasted & @itzwebster) 
+- **Support Server:** [Click Here](https://discord.gg/FB3PZJUbS5)
+
+---
+
+**By using Lirou, you agree to this Privacy Policy.**
